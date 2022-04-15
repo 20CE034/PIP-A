@@ -1,2 +1,2 @@
 # PIP-A
-Practicals 
+CE259-PIP Programming Assignments
